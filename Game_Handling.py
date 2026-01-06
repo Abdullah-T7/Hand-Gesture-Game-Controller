@@ -28,7 +28,7 @@ while True:
     if not ok:
         break
 
-    h, w, _ = frame.shape
+    h, w, _ = frame.shape   # for taking the height and width of the framw
     center_x = w // 2 + 180
     center_y = h // 2 - 50
 
@@ -53,6 +53,7 @@ while True:
 
     if result.multi_hand_landmarks and result.multi_handedness:
 
+        # for making same indexes of multi_hand and handedness
         for lm, info in zip(
             result.multi_hand_landmarks,
             result.multi_handedness
@@ -137,6 +138,7 @@ while True:
 
 cap.release()
 cv2.deleteAllWindows()
+
 
 
 
