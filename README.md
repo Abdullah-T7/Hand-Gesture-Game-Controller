@@ -1,3 +1,6 @@
+# TITLE 
+HAND GESTURE GAME CONTROLLER
+
 ## DISCRIPTION
 A hand controller, is used to control games.
 
@@ -33,6 +36,6 @@ Games that support Xbox / XInput controllers, for example:
 DEMO VIDEO:
 > LINK: https://www.linkedin.com/posts/abdullah-tariq-82ba2a37a_computervision-opencv-mediapipe-activity-7414230599500169216-WhHH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF3EwiMBtXn0HeKDf57fm_oYiClHUlGRwfI
 
-AUTHOR:
+## AUTHOR:
 Abdullah Tariq
 LINKEDIN: www.linkedin.com/in/abdullah-tariq-82ba2a37a
